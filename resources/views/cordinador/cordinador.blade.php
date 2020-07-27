@@ -12,6 +12,7 @@
 <body>
 <h2>Cordinador</h2>
 
+
 <div class="list-group">
             <a href="/Personal" class="list-group-item list-group-item-action">Conductores</a>
              <a href="/Bus" class="list-group-item list-group-item-action">Buses</a>
